@@ -11,7 +11,7 @@
 
 ## Overview
 
-It is a business card created during the course: WTF - Co ten frontend, conducted by Maciek Korsan. It is one of the first projects to use basic knowledge of HTML and CSS.
+It is a profile card created while going through the course: WTF - Co ten frontend. Led by Maciek Korsan. It is one of the first projects to use basic knowledge of HTML and CSS.
 
 ### Screenshot
 
