@@ -53,6 +53,10 @@ body {
     font-weight: normal;
 }
 
+.person__picture {
+    margin-right: 32px;
+}
+
 .person__position {
     color: #545454;
     margin: 0;
